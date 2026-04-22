@@ -1,0 +1,17 @@
+# Guia de implementacion  del chatbot (supervisado)
+import nltk
+nltk.download('punkt')
+instalar libreria
+"pip install scikit-learm nltk numpy gym ==0.25.2 gym_notices"
+
+python -c"import nltk,nltk.download('puntk')
+try{nltk.download(' punkt')}
+except Exception as e:
+print ("NLTK setup"),e
+visual code
+python -m pip install nltk
+
+
+
+
+ 

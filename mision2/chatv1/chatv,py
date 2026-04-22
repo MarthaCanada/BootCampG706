@@ -1,0 +1,8 @@
+from sklearn.feature_extraction.text import CouVectorizer
+# CouVectorizer convierte texto en un CouVectorizer
+from sklearm.naive_bayes import MultinomialNB
+""" MultinomialNB modelo de inteligencia artificial que aprende relaciones entre textos y respuestas"""
+
+
+
+
